@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Neelam Harish 
+### DevSecOps Engineer | Cloud Security Enthusiast | Automation Specialist
 
-<!--
-**harineelam555-cloud/harineelam555-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+I am a passionate **DevSecOps Engineer** focused on bridging the gap between development, security, and operations. My mission is to build robust, scalable infrastructure while ensuring security is baked into the CI/CD lifecycle—not just bolted on at the end.
 
-Here are some ideas to get you started:
+- 🛡️ **Focus:** Hardening Kubernetes clusters, Automating Compliance, and AWS Security.
+- ⚙️ **Currently:** Optimizing Terraform modules for secure-by-default deployments.
+- ⚡ **Fun Fact:** I treat "Manual Tasks" as a bug that needs to be fixed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technical Stack
+
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Cloud** | AWS (IAM, VPC, GuardDuty, EKS, Lambda, S3) |
+| **Containers** | Docker, Kubernetes (EKS/GKE), Helm |
+| **IaC** | Terraform, CloudFormation, Ansible |
+| **CI/CD & Security** | GitHub Actions, Jenkins, GitLab CI, Snyk, SonarQube, Trivy |
+| **Monitoring** | Prometheus, Grafana, AWS CloudWatch |
+
+---
